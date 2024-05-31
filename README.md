@@ -1,17 +1,6 @@
 # Project4
-Introduction
+# Introduction
 Project4 is a Jupyter Notebook-based project focused on predicting cancer diagnosis using machine learning models. The primary models utilized are the Random Forest Classifier and Logistic Regression.
-
-# Table of Contents
-Introduction
-Installation
-Usage
-Features
-Dependencies
-Configuration
-Documentation
-Troubleshooting
-Contributors
 
 # Installation
 To install and set up this project, follow these steps:

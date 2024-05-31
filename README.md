@@ -15,8 +15,7 @@ To install and set up this project, follow these steps:
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    
-6. Install dependencies (if any are listed in a requirements.txt file):
-   pip install -r requirements.txt
+6. Install dependencies listed below
 
 # Usage
 To use the project, open the Project 4.ipynb file in Jupyter Notebook:

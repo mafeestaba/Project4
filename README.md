@@ -46,5 +46,8 @@ For detailed documentation, refer to the Project 4.ipynb notebook which contains
 # Troubleshooting
 For common issues, please refer to the Troubleshooting section within the notebook or raise an issue in the repository.
 
+# Graphics
+https://public.tableau.com/app/profile/maria.torres4261/viz/CancerProject_17174581769220/HigerBPosibilities?publish=yes
+
 # Contributors
 Krysta Sharp, Maria Torres

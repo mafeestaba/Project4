@@ -47,4 +47,4 @@ For detailed documentation, refer to the Project 4.ipynb notebook which contains
 For common issues, please refer to the Troubleshooting section within the notebook or raise an issue in the repository.
 
 # Contributors
-Krysta Sharp, Maria Torres, Soubhadra Sarkar, Gaddiel Hernandez 
+Krysta Sharp, Maria Torres

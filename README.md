@@ -49,5 +49,8 @@ For common issues, please refer to the Troubleshooting section within the notebo
 # Graphics
 https://public.tableau.com/app/profile/maria.torres4261/viz/CancerProject_17174581769220/HigerBPosibilities?publish=yes
 
+# Presentation
+https://docs.google.com/presentation/d/1la8gjH27xG2SvBut72Xr0Wn9EKeD3LiHtqA_NpybhMo/edit#slide=id.g272df4398fd_8_5
+
 # Contributors
 Krysta Sharp, Maria Torres
